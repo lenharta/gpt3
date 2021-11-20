@@ -102,3 +102,18 @@
       min-width: 100%;
   }
 }
+
+@media screen and (min-width: 1199.98px) {
+  .gpt3__whatgpt3-heading {
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .gpt3__whatgpt3-heading p {
+    margin-top: 2rem;
+  }
+
+  .gpt3__whatgpt3-heading h1 {
+    max-width: 800px;
+  }
+}
