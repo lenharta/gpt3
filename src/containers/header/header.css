@@ -61,9 +61,9 @@
   font-weight: bold;
   font-size: 18px;
   line-height: 27px;
-  background: var(--color-button);
+  background: var(--color-subtext);
   border-radius: 0px 5px 5px 0px;
-  color: var(--color-white);
+  color: var(--color-bg);
   cursor: pointer;
   outline: none;
   padding: 0 1rem;
