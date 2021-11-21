@@ -1,12 +1,12 @@
 import React from 'react'
-import gpt3Logo from '../../assets/logo.svg'
+import openAi from '../../assets/openai.svg'
 import './footer.css'
 
 const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h1 className="gradient__text">Do you want to step into the future before others</h1>
+        <h1 className="gradient__text">Start building with a simple API call.</h1>
       </div>
 
       <div className="gpt3__footer-btn">
@@ -15,7 +15,8 @@ const Footer = () => {
 
       <div className="gpt3__footer-links">
         <div className="gpt3__footer-links_logo">
-          <img src={gpt3Logo} alt="logo" />
+          <img src={openAi} alt="logo" />
+          <p>OpenAI</p>
           <p>123 Smith St. Greensboro, NC 12345</p>
         </div>
 

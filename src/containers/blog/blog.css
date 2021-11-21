@@ -35,6 +35,12 @@
   grid-gap: 2rem;
 }
 
+@media screen and (min-width: 1690px) {
+  .gpt3__blog-heading h1 {
+    font-size: 58px;
+  }
+}
+
 @media screen and (max-width: 990px) {
   .gpt3__blog-container {
     flex-direction: column-reverse;
@@ -54,7 +60,7 @@
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 769px) {
   .gpt3__blog-container_groupB {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -64,7 +70,7 @@
   }
 
   .gpt3__blog-heading h1 {
-    font-size: 46px;
+    font-size: 40px;
     line-height: 52px;
   }
 }
@@ -74,5 +80,4 @@
     font-size: 34px;
     line-height: 42px;
   }
-
 }
