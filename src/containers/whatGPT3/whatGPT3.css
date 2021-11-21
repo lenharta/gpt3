@@ -86,7 +86,7 @@
       flex-direction: column;
   }
 
-  .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
+  .gpt3__whatgpt3-feature .gpt3__features-container__feature-text {
       margin-top: 0.5rem;
   }
 
@@ -100,20 +100,5 @@
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
       margin: 1rem 0;
       min-width: 100%;
-  }
-}
-
-@media screen and (min-width: 1199.98px) {
-  .gpt3__whatgpt3-heading {
-    justify-content: center;
-    flex-direction: column;
-  }
-
-  .gpt3__whatgpt3-heading p {
-    margin-top: 2rem;
-  }
-
-  .gpt3__whatgpt3-heading h1 {
-    max-width: 800px;
   }
 }
