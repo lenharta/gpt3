@@ -10,7 +10,7 @@ const WhatGPT3 = () => {
       </div>
       <div className="gpt3__whatgpt3-heading">
         <h1 className="gradient__text">GPT-3 is now available to developers</h1>
-        <p>Explore The Library</p> 
+        <p>View Documentation</p> 
       </div>
       <div className="gpt3__whatgpt3-container">
         <Feature title="Fast" text="Our advanced inference infrastructure provides extremely short response times." />

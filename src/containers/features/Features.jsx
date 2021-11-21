@@ -25,7 +25,7 @@ const Features = () => {
   return (
     <div className="gpt3__features section__padding" id="features">
       <div className="gpt3__features-heading">
-        <h1 className="gradient__text">Perform a wide variety of natural language tasks with GPT-3.</h1>
+        <h1 className="gradient__text">Perform a wide variety of natural language tasks with OpenAI GPT-3 API.</h1>
         <p>Request Early Access to Get Started</p> 
       </div>
 
