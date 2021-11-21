@@ -10,13 +10,14 @@ const Possibility = () => {
       </div>
 
       <div className="gpt3__possibility-content">
-        <h4>Request Early Access to Get Started</h4>
-        <h1 className="gradient__text">The Possibilities are beyond your imagination</h1>
-        <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-        <h4>Request Early Access Here</h4>
+        <h4>The Possibilities are beyond your imagination</h4>
+        <h1 className="gradient__text">Request Early Access to the OpenAI API</h1>
+        <p>Nine months since the launch of our first commercial product, the OpenAI API, more than 300 applications are now using GPT-3, and tens of thousands of developers around the globe are building on our platform. We currently generate an average of 4.5 billion words per day, and continue to scale production traffic.</p>
+        <h4>Join The Waitlist Below</h4>
       </div>
     </div>
   )
 }
+
 
 export default Possibility
